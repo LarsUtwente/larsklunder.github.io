@@ -9,6 +9,7 @@ Specialization: Data Science and Business
 ---
 
 ## Education
+
 **University of Twente**  
 *Master Business Information Technology* 
 2023 – Present  
@@ -34,7 +35,7 @@ Specialization: Data Science and Business
 
 **VDR Bouwgroep B.V.** – Project Developer (Intern)  
 *Jun 2022 – Aug 2022*  
--- Developed blockchain strategy with BlockLab for sustainability tracking
+--- Developed blockchain strategy with BlockLab for sustainability tracking
 
 **VDR Bouwgroep B.V.** – Graduation Intern  
 *Feb 2022 – Jun 2022*  
@@ -78,9 +79,11 @@ Specialization: Data Science and Business
 
 ## Downloads
 --- Curriculum Vitea
+
 📄 [Download my CV (PDF)](./Curriculum Vitea Lars Klunder.pdf)
 
 **Recent projects**
+
 --- Big Data project where we do analysis on all steam reviews and tweets of 2020 on a selection of games.
   
 📄 [View project PDF](./projects/Steam_Reviews_and_Tweets_2020.pdf)
