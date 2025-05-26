@@ -85,7 +85,7 @@ Specialization: Data Science and Business
 
 - Recent projects
 
-## 📄 [Download zip machine learning](./Projects/Machine_Learning_II-2.pdf)
-## 📄 [Download zip internet security](./Projects/Internet_Security-2.pdf)
-## 📄 [Download zip big data](./Projects/Steam_Reviews_and_Tweets_2020 (5)-1.pdf)
+## 📄 [Download zip machine learning](./projects/Machine_Learning_II-2.pdf)
+## 📄 [Download zip internet security](./projects/Internet_Security-2.pdf)
+## 📄 [Download zip big data](.projects/Steam_Reviews_and_Tweets_2020 (5)-1.pdf)
 
