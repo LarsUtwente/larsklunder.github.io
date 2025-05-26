@@ -81,6 +81,11 @@ Specialization: Data Science and Business
 ---
 
 ## 📄 [Download my CV (PDF)](./Curriculum Vitea Lars Klunder.pdf)
+## 📄 [Download zip of my projects from my masters](./Projects.zip)
 
-## 📄 [View some of my projects from my masters](./Projects)
+- Recent projects
+
+## 📄 [Download zip machine learning](./Projects/Machine_Learning_II-2.pdf)
+## 📄 [Download zip internet security](./Projects/Internet_Security-2.pdf)
+## 📄 [Download zip big data](./Projects/Steam_Reviews_and_Tweets_2020 (5)-1.pdf)
 
