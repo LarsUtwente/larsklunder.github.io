@@ -53,45 +53,45 @@ Specialization: Data Science and Business
 ---
 
 ## Skills
-- **Languages**: Dutch (native), English (Cambridge B2 Business)
-- **Programming**: Python, SQL, R, Java, SparQL, Hadoop, Pyspark
-- **Data Tools**: Tableau, Streamlit
-- **Finance Tools**: Exact, AccountView, Excel, Business Central
-- **Process Optimization**: Lean Six Sigma (Yellow Belt)
+--- **Languages**: Dutch (native), English (Cambridge B2 Business)
+--- **Programming**: Python, SQL, R, Java, SparQL, Hadoop, Pyspark
+--- **Data Tools**: Tableau, Streamlit
+--- **Finance Tools**: Exact, AccountView, Excel, Business Central
+--- **Process Optimization**: Lean Six Sigma (Yellow Belt)
 
 ---
 
 ## Training & Certifications
 
-- *The Art of Programming (Python)* – 2021  
-- *Lean Six Sigma Yellow Belt* – 2020
+--- *The Art of Programming (Python)* – 2021  
+--- *Lean Six Sigma Yellow Belt* – 2020
 
 ---
 
 ## Interests
 
-- Fitness and active lifestyle  
-- Technology and sustainability  
-- Travelling
+--- Fitness and active lifestyle  
+--- Technology and sustainability  
+--- Travelling
 
 --- 
 
 ## Downloads
-- Curriculum Vitea
+--- Curriculum Vitea
 📄 [Download my CV (PDF)](./Curriculum Vitea Lars Klunder.pdf)
 
 **Recent projects**
-- Big Data project where we do analysis on all steam reviews and tweets of 2020 on a selection of games.
+--- Big Data project where we do analysis on all steam reviews and tweets of 2020 on a selection of games.
   
 📄 [View project PDF](./projects/Steam_Reviews_and_Tweets_2020.pdf)
 
-- Machine learning project where we optimize a EfficientNet-B3 model with pruning.
+--- Machine learning project where we optimize a EfficientNet-B3 model with pruning.
 
 📄 [View project PDF](./projects/Machine_Learning_II-2.pdf)
 
-- internet security project where a honeypot was set up.
+--- internet security project where a honeypot was set up.
   
 📄 [View project PDF](./projects/Internet_Security-2.pdf)
 
-- More interesting stuff. 
+--- More interesting stuff. 
 📄 [Download zip of my projects](./Projects.zip)
