@@ -58,7 +58,7 @@ Specialization: Data Science and Business
 ## Skills
 
 - **Languages**: Dutch (native), English (Cambridge B2 Business)
-- **Programming**: Python, SQL, R, Java, SparQL, Hadoop
+- **Programming**: Python, SQL, R, Java, SparQL, Hadoop, Pyspark
 - **Data Tools**: Tableau, Streamlit
 - **Finance Tools**: Exact, AccountView, Excel, Business Central
 - **Process Optimization**: Lean Six Sigma (Yellow Belt)
@@ -76,7 +76,7 @@ Specialization: Data Science and Business
 
 - Fitness and active lifestyle  
 - Technology and sustainability  
-- Travel and learning new tools
+- Travelling
 
 ---
 
