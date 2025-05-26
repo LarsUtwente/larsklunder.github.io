@@ -1,5 +1,3 @@
-# larsklunder.github.io
-
 # Lars Klunder
 
 **Master Student – Business Information Technology**  
@@ -82,5 +80,6 @@ Specialization: Data Science and Business
 
 ---
 
-## 📄 [Download My CV (PDF)](./Lars_Klunder_CV.pdf)
+## 📄 [Download my CV (PDF)](./Curriculum Vitea Lars Klunder.pdf)
+## 📄 [Download my projects from my masters](./projects/..)
 
