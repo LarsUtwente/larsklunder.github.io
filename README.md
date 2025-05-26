@@ -9,12 +9,10 @@ Specialization: Data Science and Business
 ---
 
 ## Education
-
 **University of Twente**  
 *Master Business Information Technology* 
 2023 – Present  
-
-Courses: Machine Learning I & II, Data Science, Simulation, AI for Business, Managing Big Data
+---Courses: Machine Learning I & II, Data Science, Simulation, AI for Business, Managing Big Data
 
 **Windesheim University of Applied Sciences**  
 *Bachelor Finance & Control (Bedrijfseconomie)*  
@@ -27,14 +25,12 @@ Courses: Machine Learning I & II, Data Science, Simulation, AI for Business, Man
 ---
 
 ## Work Experience
-
 **Robert Muntel Financial Consultancy B.V.** – Work Student  *Sep 2024 – Present*  
-Administrative and data visualization tasks
+--- Administrative and data visualization tasks
 
 **Movella Technologies B.V.** – Financial Analyst  
 *May 2023 – June 2024*  
-
-Administrative tasks
+--- Administrative tasks
 
 **VDR Bouwgroep B.V.** – Project Developer (Intern)  
 *Jun 2022 – Aug 2022*  
@@ -46,18 +42,17 @@ Administrative tasks
 
 **Mountain-Network B.V.** – Financial Worker  
 *Jan 2021 – Dec 2021*  
-- Automated reporting  
-- Process optimization (accounts payable workflow)
+--- Automated reporting  
+--- Process optimization (accounts payable workflow)
 
 **Mountain-Network B.V.** – Financial Intern  
 *Sep 2020 – Jan 2021*  
-- Credit and debtor management  
-- Financial analytics and reporting
+--- Credit and debtor management  
+--- Financial analytics and reporting
 
 ---
 
 ## Skills
-
 - **Languages**: Dutch (native), English (Cambridge B2 Business)
 - **Programming**: Python, SQL, R, Java, SparQL, Hadoop, Pyspark
 - **Data Tools**: Tableau, Streamlit
