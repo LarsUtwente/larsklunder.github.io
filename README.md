@@ -1,7 +1,5 @@
 # Lars Klunder
 
-[Picture](./profilepicture.png)
-
 **Master Student – Business Information Technology**  
 Specialization: Data Science and Business  
 📍 Enschede, The Netherlands  
@@ -82,21 +80,17 @@ Specialization: Data Science and Business
 
 --- 
 
-## Some Downloads for people interested in what I like and do. 
-
+## Downloads
 - Curriculum Vitea
+📄 [Download my CV (PDF)](./Curriculum Vitea Lars Klunder.pdf)
 
-## 📄 [Download my CV (PDF)](./Curriculum Vitea Lars Klunder.pdf)
+# Recent projects
+- Big Data project where we do analysis on all steam reviews and tweets of 2020 on a selection of games. 
+📄 [Download Big Data](./projects/Steam_Reviews_and_Tweets_2020.pdf)
+- Machine learning project where we optimize a EfficientNet-B3 model with pruning. 
+📄 [Download Machine Learning](./projects/Machine_Learning_II-2.pdf)
+- internet security project where a honeypot was set up. 
+📄 [Download Internet Security](./projects/Internet_Security-2.pdf)
 
-- Recent projects
-
-
-PDF Big Data project
-## 📄 [Download Big Data](./projects/Steam_Reviews_and_Tweets_2020.pdf)
-
-PDF Machine learning projects
-## 📄 [Download Machine Learning](./projects/Machine_Learning_II-2.pdf)
-
-PDF internet security project
-## 📄 [Download Internet Security](./projects/Internet_Security-2.pdf)
-## 📄 [Download zip of my projects](./Projects.zip)
+- More interesting stuff. 
+📄 [Download zip of my projects](./Projects.zip)
