@@ -78,14 +78,16 @@ Specialization: Data Science and Business
 - Technology and sustainability  
 - Travelling
 
----
+--- 
+
+## Some Downloads for people interested in what I like and do. 
 
 ## 📄 [Download my CV (PDF)](./Curriculum Vitea Lars Klunder.pdf)
-## 📄 [Download zip of my projects from my masters](./Projects.zip)
+## 📄 [Download zip of my projects](./Projects.zip)
 
 - Recent projects
 
 ## 📄 [Download zip machine learning](./projects/Machine_Learning_II-2.pdf)
 ## 📄 [Download zip internet security](./projects/Internet_Security-2.pdf)
-## 📄 [Download zip big data](.projects/Steam_Reviews_and_Tweets_2020 (5)-1.pdf)
+## 📄 [Download zip big data](./projects/Steam_Reviews_and_Tweets_2020 (5)-1.pdf)
 
