@@ -84,13 +84,18 @@ Specialization: Data Science and Business
 - Curriculum Vitea
 📄 [Download my CV (PDF)](./Curriculum Vitea Lars Klunder.pdf)
 
-# Recent projects
-- Big Data project where we do analysis on all steam reviews and tweets of 2020 on a selection of games. 
-📄 [Download Big Data](./projects/Steam_Reviews_and_Tweets_2020.pdf)
-- Machine learning project where we optimize a EfficientNet-B3 model with pruning. 
-📄 [Download Machine Learning](./projects/Machine_Learning_II-2.pdf)
-- internet security project where a honeypot was set up. 
-📄 [Download Internet Security](./projects/Internet_Security-2.pdf)
+**Recent projects**
+- Big Data project where we do analysis on all steam reviews and tweets of 2020 on a selection of games.
+  
+📄 [View project PDF(./projects/Steam_Reviews_and_Tweets_2020.pdf)
+
+- Machine learning project where we optimize a EfficientNet-B3 model with pruning.
+
+📄 [View project PDF](./projects/Machine_Learning_II-2.pdf)
+
+- internet security project where a honeypot was set up.
+  
+📄 [View project PDF](./projects/Internet_Security-2.pdf)
 
 - More interesting stuff. 
 📄 [Download zip of my projects](./Projects.zip)
