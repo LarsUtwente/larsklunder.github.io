@@ -88,11 +88,11 @@ Specialization: Data Science and Business
 
 **Recent projects**
 
---- Big Data project where we do analysis on all steam reviews and tweets of 2020 on a selection of games.
+--- Big Data project where we do timeseries analysis on all steam reviews and tweets of 2020 on a selection of games.
   
 📄 [View project PDF](./projects/Steam_reviewsand_tweets.pdf)
 
---- Machine learning project where we optimize a EfficientNet-B3 model with pruning.
+--- Machine learning project where we optimize a EfficientNet-B3 model with different types of pruning.
 
 📄 [View project PDF](./projects/Machine_Learning_II-2.pdf)
 
